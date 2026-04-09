@@ -47,7 +47,7 @@ pet_1 = owner_1.pets.create(
     name: "Rocco",
     species: "Dog",
     breed: "Akita",
-    date_of_birth: Date.new(2018,9,23),
+    date_of_birth: Date.new(2018, 9, 23),
     weight: 45.7
 )
 
@@ -55,7 +55,7 @@ pet_2 = owner_1.pets.create(
     name: "Milo",
     species: "Rabbit",
     breed: "Mini Lop",
-    date_of_birth: Date.new(2024,5,12),
+    date_of_birth: Date.new(2024, 5, 12),
     weight: 15.7
 )
 
@@ -63,7 +63,7 @@ pet_3 = owner_2.pets.create(
     name: "Peludito",
     species: "Dog",
     breed: "Pomerania",
-    date_of_birth: Date.new(2022,8,23),
+    date_of_birth: Date.new(2022, 8, 23),
     weight: 20.4
 )
 
@@ -71,7 +71,7 @@ pet_4 = owner_2.pets.create(
     name: "Luna",
     species: "Ferret",
     breed: "Silver",
-    date_of_birth: Date.new(2015,12,24),
+    date_of_birth: Date.new(2015, 12, 24),
     weight: 8.9
 )
 
@@ -79,7 +79,7 @@ pet_5 = owner_3.pets.create(
     name: "Benito",
     species: "Dog",
     breed: "Husky siberiano",
-    date_of_birth: Date.new(2024,2,12),
+    date_of_birth: Date.new(2024, 2, 12),
     weight: 50.7
 )
 
@@ -87,7 +87,7 @@ pet_6 = owner_3.pets.create(
     name: "Elvis",
     species: "Cat",
     breed: "Siames",
-    date_of_birth: Date.new(2010,10,16),
+    date_of_birth: Date.new(2010, 10, 16),
     weight: 25.2
 )
 
